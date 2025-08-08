@@ -1,3 +1,3 @@
 "# books_react" 
 
-abrir diretirio do server e iniciar o app.js
+abrir diretorio do server e iniciar o app.js
