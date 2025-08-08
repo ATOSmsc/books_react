@@ -1,3 +1,27 @@
+APÓS BAIXAR O PROJETO
+
+
+INSERIR O COMANDO 
+npm init 
+NA RAIZ DO PROJETO
+
+ENTAO SERA REALIZADO O PROCESSO DE 
+UTILIZACAO DO COMANDO 
+npm install
+NOS SEGUINTES DIRETORIOS A PARTIR DO DIRETORIO RAIZ
+cd ./books_react
+npm install
+
+cd ..
+
+cd ./books_server
+npm install
+
+
+
+" ## SE NECESSARIO VERIFICAR OS ARQUIVOS DE node_modules # "
+
+
 "# books_react" 
 
 "books_server -> app.js"
