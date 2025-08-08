@@ -28,7 +28,7 @@ NOS SEGUINTES DIRETORIOS A PARTIR DO DIRETORIO RAIZ
 " ## SE NECESSARIO VERIFICAR OS ARQUIVOS DE node_modules # "
 
 
-"# books_react" 
+"# " 
 
 "books_server -> app.js"
 
