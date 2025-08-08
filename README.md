@@ -10,8 +10,6 @@ com o comando
 
 "# books_react -> src/index.js"
 
-"# books_react -> src/index.js"
-
  Abrir diretorio do books_react 
 acessar diretorio src 
 iniciar arquivo index.js
