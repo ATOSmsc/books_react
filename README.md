@@ -2,15 +2,15 @@
 
 "books_server -> app.js"
 
- Abrir o diretorio books_server e pelo terminal iniciar o arquivo index.js 
+Abrir o diretorio books_server e pelo terminal iniciar o arquivo index.js 
 com o comando
 
-  -> node app.js
+-> node app.js
 
 "books_react -> src/index.js"
 
- Abrir diretorio do books_react 
+Abrir diretorio do books_react 
 acessar diretorio src 
 iniciar arquivo index.js
 
-  -> npm start
+-> npm start
