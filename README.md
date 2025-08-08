@@ -15,11 +15,13 @@ NOS SEGUINTES DIRETORIOS A PARTIR DO DIRETORIO RAIZ
 
 
 cd ./books_react
+
 npm install
 
 cd ..
 
 cd ./books_server
+
 npm install
 
 
