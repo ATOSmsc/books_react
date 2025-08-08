@@ -14,15 +14,14 @@ UTILIZACAO DO COMANDO
 NOS SEGUINTES DIRETORIOS A PARTIR DO DIRETORIO RAIZ
 
 
-cd ./books_react
+->  cd ./books_react
+->  npm install
 
-npm install
+->  cd ..
 
-cd ..
+->  cd ./books_server
 
-cd ./books_server
-
-npm install
+->  npm install
 
 
 
